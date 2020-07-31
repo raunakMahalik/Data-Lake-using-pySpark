@@ -4,7 +4,7 @@
 ## Introduction
 
 
-The music streaming startup, Sparkify, has grown its user base and song database. As a result, it has collected a copious amount of user activity logs and song data. The data currently resides in S3 buckets in the form of JSON files. The analytics team at Sparkify wants to use this data to deliver insights that can drive business decisions and improve user experience. To achieve this the data needs to be migrated into a data lake hosted on AWS S3. The aim of this project is to build an end to end big data ecosystem that supports this data lake.
+The music streaming startup, Sparkify, has grown its user base and song database. As a result, it has collected a copious amount of user activity and song data. The data currently resides in S3 buckets in the form of JSON files. The analytics team at Sparkify wants to use this data to deliver insights that can drive business decisions and improve user experience. To achieve this the data needs to be migrated into a data lake hosted on AWS S3. The aim of this project is to build an end to end big data ecosystem that supports this data lake.
 
 The following are the sub-tasks of this project:
 - Construct an **ETL** pipeline that:
